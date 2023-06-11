@@ -1,0 +1,23 @@
+
+image {
+	width: 96px;
+	height: 96px;
+}
+.uni-navigate-item {
+	display: flex;
+	align-items: center;
+	background-color: #ffffff;
+	border-top-style: solid;
+	border-top-color: #f0f0f0;
+	border-top-width: 1px;
+	padding: 12px;
+}
+.uni-navigate-text {
+	flex: 1;
+	color: #000000;
+	font-size: 18px;
+	font-weight: normal;
+	min-width: 150rpx;
+	padding-right: 50rpx;
+}
+

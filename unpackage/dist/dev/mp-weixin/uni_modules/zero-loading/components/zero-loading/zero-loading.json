@@ -1,0 +1,15 @@
+{
+  "component": true,
+  "usingComponents": {
+    "loading0": "/uni_modules/zero-loading/components/zero-loading/static/loading-circle",
+    "loading1": "/uni_modules/zero-loading/components/zero-loading/static/loading-pulse",
+    "loading2": "/uni_modules/zero-loading/components/zero-loading/static/loading-bounce",
+    "loading3": "/uni_modules/zero-loading/components/zero-loading/static/loading-eyes",
+    "loading4": "/uni_modules/zero-loading/components/zero-loading/static/loading-triangle",
+    "loading5": "/uni_modules/zero-loading/components/zero-loading/static/loading-sun",
+    "loading6": "/uni_modules/zero-loading/components/zero-loading/static/loading-love",
+    "loading7": "/uni_modules/zero-loading/components/zero-loading/static/loading-sword",
+    "loading8": "/uni_modules/zero-loading/components/zero-loading/static/loading-atom",
+    "loading9": "/uni_modules/zero-loading/components/zero-loading/static/loading-gear"
+  }
+}

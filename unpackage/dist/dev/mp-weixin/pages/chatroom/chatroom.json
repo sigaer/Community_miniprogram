@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "社区聊天室",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "zero-loading": "/uni_modules/zero-loading/components/zero-loading/zero-loading"
+  }
+}

@@ -1,0 +1,220 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/consult/consult",
+			"style": {
+				"navigationBarTitleText": "咨询"
+			}
+		},
+		{
+			"path": "pages/service/service",
+			"style": {
+				"navigationBarTitleText": "服务"
+			}
+		},
+		{
+			"path": "pages/me/me",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/general/general",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/urgent/urgent",
+			"style": {
+				"navigationBarTitleText": "紧急呼叫",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/auth/auth",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/consult/createQuestion/createQuestion",
+			"style": {
+				"navigationBarTitleText": "发布问题",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/anno/anno",
+			"style": {
+				"navigationBarTitleText": "社区公告",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/anno/detail/detail",
+			"style": {
+				"navigationBarTitleText": "公告详情",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/question/question",
+			"style": {
+				"navigationBarTitleText": "问题详情",
+				"enablePullDownRefresh": true
+			}
+
+		}, {
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "消息记录",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/chatroom/chatroom",
+			"style": {
+				"navigationBarTitleText": "社区聊天室",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/archive/archive",
+			"style": {
+				"navigationBarTitleText": "我的健康档案",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/archive/addinfo/addinfo",
+			"style": {
+				"navigationBarTitleText": "添加健康信息",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/archive/detail/detail",
+			"style": {
+				"navigationBarTitleText": "健康状况",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/archive/history/history",
+			"style": {
+				"navigationBarTitleText": "历史记录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/archive/record/record",
+			"style": {
+				"navigationBarTitleText": "个人健康状态",
+				"enablePullDownRefresh": false
+			}
+		}, 
+		{
+			"path": "pages/service/complain/complain",
+			"style": {
+				"navigationBarTitleText": "服务反馈",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/service/evalue/evalue",
+			"style": {
+				"navigationBarTitleText": "服务详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/service/introduction/introduction",
+			"style": {
+				"navigationBarTitleText": "服务介绍",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/service/reserve/reserve",
+			"style": {
+				"navigationBarTitleText": "服务预约",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/about/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/archive/archive",
+			"style": {
+				"navigationBarTitleText": "我的健康档案",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助与反馈",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/information/information",
+			"style": {
+				"navigationBarTitleText": "我个人信息",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/myquestion/myquestion",
+			"style": {
+				"navigationBarTitleText": "我发布的问题",
+				"enablePullDownRefresh": false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/default/home.png",
+				"selectedIconPath": "static/active/home.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/consult/consult",
+				"iconPath": "static/default/comment.png",
+				"selectedIconPath": "static/active/comment.png",
+				"text": "咨询"
+			}, {
+				"pagePath": "pages/service/service",
+				"iconPath": "static/default/medicinebox.png",
+				"selectedIconPath": "static/active/medicinebox.png",
+				"text": "服务"
+			}, {
+				"pagePath": "pages/me/me",
+				"iconPath": "static/default/user.png",
+				"selectedIconPath": "static/active/user.png",
+				"text": "我的"
+			}
+		]
+	}
+}

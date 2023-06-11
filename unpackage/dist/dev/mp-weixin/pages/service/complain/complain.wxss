@@ -1,0 +1,10 @@
+
+button.data-v-a49e1c68 {
+	/* 	position: fixed;
+	left:10%;
+	bottom: 10%; */
+	border-radius: 0.5rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+

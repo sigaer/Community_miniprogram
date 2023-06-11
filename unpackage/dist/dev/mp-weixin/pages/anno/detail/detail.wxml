@@ -1,0 +1,1 @@
+<view><view class="top"><view class="title">{{anno.title}}</view><view class="c_time">{{"发布于"+(' '+anno.time)}}</view></view><view class="_hr"></view><view class="content">{{anno.content}}</view></view>

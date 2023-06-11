@@ -1,0 +1,12 @@
+
+.wrapper.data-v-49d02e4e {
+	padding: 15px;
+}
+.form-item.data-v-49d02e4e {
+	display: flex;
+	align-items: center;
+}
+.data-v-49d02e4e .uni-forms-item__label {
+	width: 100px !important;
+}
+

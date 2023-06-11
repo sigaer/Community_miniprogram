@@ -1,0 +1,21 @@
+
+.intro.data-v-716e22de {
+	display: block;
+	text-indent: 2em;
+	margin-top: 1rem;
+	padding: 0 0.5em;
+}
+button.data-v-716e22de {
+	border-radius: 0.5rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.uni-input.data-v-716e22de {
+	border: 1px solid #cccccc;
+	border-radius: 0.5rem;
+	margin: 0.5rem;
+	height: 5rem;
+	padding-left: 0.5rem;
+	padding-top: 0.3rem;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "个人健康状态",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-table": "/uni_modules/uni-table/components/uni-table/uni-table",
+    "uni-tr": "/uni_modules/uni-table/components/uni-tr/uni-tr",
+    "uni-td": "/uni_modules/uni-table/components/uni-td/uni-td"
+  }
+}

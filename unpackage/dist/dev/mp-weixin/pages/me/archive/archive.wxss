@@ -1,0 +1,9 @@
+
+.top.data-v-11b38f37 {
+	display: flex;
+	border-bottom: 5px #cccccc solid;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 6rem;
+}
+

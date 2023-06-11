@@ -1,0 +1,34 @@
+
+input.data-v-eaf07250 {
+	border: 1px solid #cccccc;
+	border-radius: 0.5rem;
+	margin: 0.5rem;
+	height: 2rem;
+	padding-left: 0.5rem;
+}
+.uni-input.data-v-eaf07250 {
+	border: 1px solid #cccccc;
+	border-radius: 0.5rem;
+	margin: 0.5rem;
+	height: 5rem;
+	padding-left: 0.5rem;
+	padding-top: 0.3rem;
+}
+button.data-v-eaf07250 {
+	/* 	position: fixed;
+	left:10%;
+	bottom: 10%; */
+	border-radius: 0.5rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.wrapper.data-v-eaf07250 {
+	display: flex;
+	flex-wrap: wrap;
+	/* height:100px; */
+	align-items: center;
+	margin-top: 0.6rem;
+	margin-bottom: 0.6rem;
+	overflow: hidden;
+}
+

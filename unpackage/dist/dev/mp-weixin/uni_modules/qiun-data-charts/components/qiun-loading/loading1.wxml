@@ -1,0 +1,1 @@
+<view class="container loading1 data-v-e4e769ee"><view class="shape shape1 data-v-e4e769ee"></view><view class="shape shape2 data-v-e4e769ee"></view><view class="shape shape3 data-v-e4e769ee"></view><view class="shape shape4 data-v-e4e769ee"></view></view>

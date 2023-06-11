@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "服务反馈",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-section": "/uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

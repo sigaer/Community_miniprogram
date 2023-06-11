@@ -1,0 +1,46 @@
+<template>
+	<view>
+		<uni-section title="服务介绍" type="line">
+		<text class="intro">
+			亲爱的用户，我们的居家养老服务旨在为您提供方便、舒适、安心的生活体验。我们为您提供多种类型的服务，包括家政服务、健康服务和心理支持服务。每种服务类型下面又有不同的子类型，可以根据您的具体需求进行预约。
+		</text>
+		<text class="intro">
+			家政服务包括日常家务、餐饮服务、看护服务等等，我们的专业服务人员会为您提供最贴心的照顾，让您的生活更加便利和舒适。
+		</text>
+		<text class="intro">
+			健康服务包括上门体检、疫苗接种等，我们的医护人员会为您提供专业的健康服务，随时为您排忧解难。
+		</text>
+		<text class="intro">
+			心理支持服务则包括心理咨询等服务项目，我们的专业心理咨询师会为您提供温馨、关爱的服务，帮助您调整情绪，积极面对生活。
+		</text>
+		<text class="intro">
+			我们对所有服务都提供了服务评价功能，您可以查看您的服务历史记录并进行评价，以便我们不断改进服务质量。同时，如果您有任何意见或建议，可以通过投诉反馈页面向我们反馈，我们将聆听您的建议。
+		</text>
+		<text class="intro">
+			我们致力于为您提供最优质、最周到的服务，让您的晚年生活更加美好、健康、快乐。
+		</text>
+		</uni-section>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				
+			}
+		},
+		methods: {
+			
+		}
+	}
+</script>
+
+<style scoped>
+.intro{
+	display: block;
+	text-indent: 2em;
+	margin-top: 1rem;
+	padding: 0 0.5em;
+}
+</style>

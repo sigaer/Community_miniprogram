@@ -1,0 +1,10 @@
+
+.chartsview.data-v-fe947b98 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
